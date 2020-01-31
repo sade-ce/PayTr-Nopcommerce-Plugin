@@ -1,2 +1,2 @@
 # PayTr-Nopcommerce-Plugin
-Nopcommerce PayTr Sanal Pos Entegrasyonu
+Nopcommerce PayTr Entegrasyonu
